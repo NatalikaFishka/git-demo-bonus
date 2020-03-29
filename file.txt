@@ -1,1 +1,2 @@
 Some text in file
+And one more line of test
